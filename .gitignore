@@ -1,0 +1,18 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+
+# Files exceeding GitHub's 100 MB per-file limit (see README.md for setup/reproduction)
+Part 1/data/raw/filtered_financial_news.csv
+Part 1/outputs/clean_financial_news.csv
+Part 2/data/clean_stock_news.csv
+Part 2/models/finbert/model.safetensors

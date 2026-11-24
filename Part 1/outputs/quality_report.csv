@@ -1,0 +1,14 @@
+Check,Result
+Original Records,13578
+Records After Cleaning,13578
+Missing Values in Original Data,0
+Exact Duplicate Records,0
+Duplicate Ticker-Date Records,0
+Invalid Price Records,0
+Negative Volume Records,0
+Missing Trading Dates,0
+Extreme Daily Returns (>10%),57
+Unusual Volume Spikes (Top 1%),138
+Infinite Values in Features,0
+Final Feature Dataset Records,13578
+Final Feature Dataset Columns,20
